@@ -1,0 +1,1 @@
+prepend(X,L,[X|L]).
